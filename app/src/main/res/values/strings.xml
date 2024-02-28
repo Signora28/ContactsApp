@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string-array name="contacts">
+        <item>085717900748</item>
+        <item>087782817686</item>
+    </string-array>
+</resources>
